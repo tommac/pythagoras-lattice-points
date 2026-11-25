@@ -1,0 +1,2 @@
+$ python3 anc/verify.py
+PASS  Lemmas 1-3, the box partition, the interior count, Pick and the shear, for all 900 pairs of legs up to 30
